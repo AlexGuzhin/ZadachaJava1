@@ -7,9 +7,10 @@ public class Main {
 
         int cost = 20_000;
         int bonus = 20;
-        int bonusmiles = cost / bonus; {
+        int bonusMiles = cost / bonus;
+        {
         }
-        System.out.println("При покупке билета стоимостью " + cost + " руб.,Ваш бонус составит " + bonusmiles + " Бонусных миль.");
+        System.out.println("При покупке билета стоимостью " + cost + " руб.,Ваш бонус составит " + bonusMiles + " Бонусных миль.");
 
     }
 }
